@@ -13,10 +13,6 @@
     "read-pkg": "^5.1.1"
   },
   "scripts": {
-    "test": "echo all good",
-    "release": "semantic-release"
-  },
-  "devDependencies": {
-    "semantic-release": "^15.13.17"
+    "test": "echo all good"
   }
 }
