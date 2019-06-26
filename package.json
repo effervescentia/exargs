@@ -1,6 +1,6 @@
 {
   "name": "exargs",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Argument expansion utility.",
   "bin": {
     "exargs": "index.js"
