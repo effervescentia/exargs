@@ -1,0 +1,22 @@
+{
+  "name": "exargs",
+  "version": "1.0.0",
+  "description": "Argument expansion utility.",
+  "bin": {
+    "exargs": "index.js"
+  },
+  "author": "Ben Teichman",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "dargs": "^7.0.0",
+    "read-pkg": "^5.1.1"
+  },
+  "scripts": {
+    "test": "echo all good",
+    "release": "semantic-release"
+  },
+  "devDependencies": {
+    "semantic-release": "^15.13.17"
+  }
+}
